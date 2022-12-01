@@ -1,3 +1,3 @@
 # PythonGame
 
-This repository is examples of projects to be created by a novice.
+Want to learn python? Try these basic games and projects on your own!
